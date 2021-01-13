@@ -1,7 +1,7 @@
 # SomeChat
 Some shitty chat program I made using Node.JS
 
-##Also the privacy of the users would be better if you used some kind of proxy for the server, proxies are easy to make you just need to do the following code.
+## Also the privacy of the users would be better if you used some kind of proxy for the server, proxies are easy to make you just need to do the following code.
 ```js
 const net = require("net");
 const proxy = net.createServer();
